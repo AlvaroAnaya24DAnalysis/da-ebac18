@@ -1,7 +1,7 @@
 
 # Projeto de Análise de Preços de Gasolina
 
-Este repositorio contiene el análisis de los precios promedio de venta de gasolina en la ciudad de São Paulo durante los primeros 10 días de julio de 2021.
+El repositorio contiene el análisis de los precios promedio de venta de gasolina en la ciudad de São Paulo durante los primeros 10 días de julio de 2021.
 
 ## Archivos incluidos
 
